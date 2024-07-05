@@ -69,6 +69,8 @@ Where:
 
 - Proteus 8 Professional
 
+- MATLAB.
+
 ### Hardware Architecture <a id="hardware-architecture"></a>
 
 - ArduinoMega 2560
