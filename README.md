@@ -57,7 +57,7 @@ Where:
 - $\theta$ is the angle calculated according to the equation  $(3)$.
 
 <p align="center">
-  <img src="images/robot schema.jpg" alt="robot schema" width="50%" />
+  <img src="images/robot schema.png" alt="robot schema" width="50%" />
 </p>
 <p align="center" Style="font-size:12px; color:grey; font-type:italic;">
   <i>Figure 1: schema of the measurements required to calculate $\theta$ </i>
